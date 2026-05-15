@@ -1738,3 +1738,97 @@ section { scroll-margin-top: 100px; }
   .hero-stats-card .hero-stat-icon { display: flex; justify-content: center; }
   .hero-stats-card .hero-stat-num { font-size: 24px; }
 }
+
+/* ===== Mobile (≤640px): un-overlap hero v3, stack to single column ===== */
+@media (max-width: 640px) {
+  /* Hero container: let children flow vertically, no absolute overlays */
+  .hero-fullbleed { display: flex; flex-direction: column; }
+
+  /* 1) Limited ribbon: render as a standalone card above the image */
+  .hero-limited-ribbon {
+    position: static;
+    order: 1;
+    align-self: stretch;
+    margin: 16px var(--pad-x) 0;
+    padding: 14px 18px;
+    border-radius: 4px;
+    pointer-events: auto;
+    box-shadow: 0 6px 18px rgba(141, 104, 38, 0.25);
+  }
+  .hero-limited-ribbon-main { font-size: 16px; }
+  .hero-limited-ribbon-main b { font-size: 24px; }
+
+  /* 2) Hero image: contain inside the column, no overlay above it */
+  .hero-bg {
+    order: 2;
+    width: 100%;
+    height: auto;
+    max-height: none;
+    margin-top: 16px;
+  }
+
+  /* 3) Inner block (CTA + stats): static, below image, no overlap */
+  .hero-fb-inner {
+    position: static;
+    order: 3;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 20px;
+    padding: 20px var(--pad-x) 24px;
+    pointer-events: auto;
+    margin: 0;
+    max-width: none;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  /* 4) CTA buttons: full width, stacked, no overlap with image */
+  .hero-fb-cta {
+    order: 1;
+    margin-bottom: 0;
+    flex-direction: column;
+    align-items: stretch;
+    width: 100%;
+  }
+  .hero-fb-cta .btn { width: 100%; justify-content: center; }
+
+  /* 5) Stats card: full width, stacked vertically (no horizontal split) */
+  .hero-stats-card {
+    order: 2;
+    position: static;
+    transform: none;
+    margin: 0;
+    width: 100%;
+    grid-template-columns: 1fr;
+    gap: 0;
+    padding: 8px 16px;
+  }
+  .hero-stats-card .hero-stat {
+    border-left: 0;
+    border-top: 1px solid var(--c-line);
+    padding: 14px 4px;
+    text-align: left;
+    display: grid;
+    grid-template-columns: 28px 1fr auto;
+    align-items: center;
+    gap: 12px;
+    min-width: 0;
+  }
+  .hero-stats-card .hero-stat:first-child { border-top: 0; }
+  .hero-stats-card .hero-stat-icon { margin: 0; display: flex; justify-content: flex-start; }
+  .hero-stats-card .hero-stat-num { font-size: 22px; }
+  .hero-stats-card .hero-stat-label { margin-top: 0; text-align: right; }
+
+  /* 6) Floating CTA: dock as full-width bottom bar; reserve body space */
+  .float-cta {
+    left: 0; right: 0; bottom: 0;
+    width: 100%;
+    justify-content: center;
+    border-radius: 0;
+    padding: 14px 16px;
+    font-size: 15px;
+    box-shadow: 0 -6px 20px rgba(0,0,0,0.18);
+  }
+  body { padding-bottom: 64px; }
+}
