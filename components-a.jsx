@@ -30,10 +30,6 @@ function Header() {
           <a href="#flow">お申込みの流れ</a>
           <a href="#faq">FAQ</a>
         </nav>
-        <a href={APPLY_URL} target="_blank" rel="noopener noreferrer" className="btn btn-primary">
-          無料で申込む
-          <span className="btn-arrow" />
-        </a>
       </div>
     </header>
   );
@@ -49,17 +45,13 @@ function Hero({ heroVariant }) {
 function HeroDefault() {
   return (
     <section className="hero hero-fullbleed" id="top">
-      <img src="assets/hero.png" alt="社員の健康課題に、10の処方箋を。兵庫県内企業の健康経営担当者向け、全10講座・無料の研修プログラム" className="hero-bg" />
-      <div className="hero-limited-ribbon" aria-label="先着100社限定">
-        <span className="hero-limited-ribbon-eyebrow">FIRST-COME</span>
-        <span className="hero-limited-ribbon-main">先着<b>100</b>社限定</span>
-      </div>
+      <img src="assets/hero.png?v=9" alt="社員の健康課題に、10の処方箋を。兵庫県内企業の健康経営担当者向け、全10講座・無料の研修プログラム" className="hero-bg" />
       <div className="hero-fb-inner">
+        <div className="hero-limited-ribbon" aria-label="先着100社限定">
+          <span className="hero-limited-ribbon-eyebrow">FIRST-COME</span>
+          <span className="hero-limited-ribbon-main">先着<b>100</b>社限定</span>
+        </div>
         <div className="hero-fb-cta">
-          <a href={APPLY_URL} target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-xl">
-            無料で申込む
-            <span className="btn-arrow" />
-          </a>
           <a href="#courses" className="btn btn-outline btn-xl">
             講座一覧を見る
           </a>
