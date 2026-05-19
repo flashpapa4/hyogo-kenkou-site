@@ -1,0 +1,752 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - generic [ref=e5]:
+      - generic [ref=e6]: 兵庫県委託事業 ／ 健康づくり研修会支援事業
+      - generic [ref=e7]: ★ 先着100社限定 ／ 令和8年度
+    - generic [ref=e8]:
+      - link "兵庫県 HYOGO PREFECTURE × GUNZE SPORTS 健康づくり研修会支援事業" [ref=e9] [cursor=pointer]:
+        - /url: "#top"
+        - img "兵庫県" [ref=e10]
+        - generic [ref=e12]:
+          - generic [ref=e13]: HYOGO PREFECTURE × GUNZE SPORTS
+          - generic [ref=e14]: 健康づくり研修会支援事業
+      - navigation [ref=e15]:
+        - link "事業概要" [ref=e16] [cursor=pointer]:
+          - /url: "#about"
+        - link "対象企業" [ref=e17] [cursor=pointer]:
+          - /url: "#target"
+        - link "講座一覧" [ref=e18] [cursor=pointer]:
+          - /url: "#courses"
+        - link "お申込みの流れ" [ref=e19] [cursor=pointer]:
+          - /url: "#flow"
+        - link "FAQ" [ref=e20] [cursor=pointer]:
+          - /url: "#faq"
+  - main [ref=e21]:
+    - generic [ref=e22]:
+      - img "社員の健康課題に、10の処方箋を。兵庫県内企業の人事・総務ご担当者向け、全10講座の研修プログラム" [ref=e23]
+      - generic [ref=e24]:
+        - generic "先着100社限定":
+          - generic: FIRST-COME
+          - generic: 先着100社限定
+        - link "講座一覧を見る" [ref=e26] [cursor=pointer]:
+          - /url: "#courses"
+        - generic [ref=e27]:
+          - generic [ref=e28]:
+            - img [ref=e30]
+            - generic [ref=e33]: 10講座
+            - generic [ref=e34]: PROGRAMS
+          - generic [ref=e35]:
+            - img [ref=e37]
+            - generic [ref=e41]: 3領域
+            - generic [ref=e42]: CATEGORIES
+          - generic [ref=e43]:
+            - img [ref=e45]
+            - generic [ref=e47]: ¥0
+            - generic [ref=e48]: 無料
+    - generic [ref=e50]:
+      - generic [ref=e51]:
+        - img [ref=e53]
+        - generic [ref=e56]:
+          - strong [ref=e57]: 行政の信頼
+          - text: 兵庫県委託事業として実施
+      - generic [ref=e58]:
+        - img [ref=e60]
+        - generic [ref=e63]:
+          - strong [ref=e64]: 実績
+          - text: グンゼスポーツが研修運営
+      - generic [ref=e65]:
+        - img [ref=e67]
+        - generic [ref=e69]:
+          - strong [ref=e70]: 受講料
+          - text: 対象企業は全講座無料
+      - generic [ref=e71]:
+        - img [ref=e73]
+        - generic [ref=e76]:
+          - strong [ref=e77]: 実施形態
+          - text: 対面・オンライン選択可
+    - generic [ref=e80]:
+      - generic [ref=e81]:
+        - generic [ref=e82]: ABOUT
+        - heading "働き盛り世代の 健康づくりを支援するための研修事業" [level=2] [ref=e83]:
+          - text: 働き盛り世代の
+          - text: 健康づくりを支援するための研修事業
+        - paragraph [ref=e84]: 兵庫県では、働き盛り世代の健康づくりを支援するため、 健康づくりに関する研修会に専門家（講師）を派遣しています。 本事業はグンゼスポーツ株式会社が運営し、運動・食事・健康意識の 3領域・全10講座から、貴社の課題に合わせてお選びいただけます。
+        - list [ref=e85]:
+          - listitem [ref=e86]:
+            - generic [ref=e87]: "03"
+            - generic [ref=e88]: 全講座共通で受講後に「明日から実行する行動を1つ決定する」行動変容フレーム
+      - generic [ref=e89]:
+        - heading "事業実施体制" [level=3] [ref=e90]
+        - generic [ref=e91]:
+          - generic [ref=e92]:
+            - strong [ref=e93]: 兵庫県
+            - text: 委託元 ／ 健康づくり研修会支援事業
+          - generic [ref=e95]:
+            - strong [ref=e96]: グンゼスポーツ株式会社
+            - text: 委託先 ／ 研修運営・講師派遣
+          - generic [ref=e98]:
+            - strong [ref=e99]: 兵庫県内企業
+            - text: 対象 ／ 健康づくりチャレンジ企業 等
+    - generic [ref=e101]:
+      - generic [ref=e102]:
+        - generic [ref=e103]: FOR
+        - heading "こんな企業の課題にお応えします" [level=2] [ref=e104]
+      - generic [ref=e106]:
+        - generic [ref=e107]:
+          - generic [ref=e108]: 対象企業
+          - heading "兵庫県内に事業所をもつ 「健康づくりチャレンジ企業」" [level=3] [ref=e109]:
+            - text: 兵庫県内に事業所をもつ
+            - text: 「健康づくりチャレンジ企業」
+          - paragraph [ref=e110]: 総務・人事ご担当者の皆さまからのお申込みを受付しています。登録予定の企業様もまずはお問合せください。
+        - generic [ref=e111]:
+          - generic [ref=e112]: こんなお悩みはありませんか？
+          - list [ref=e113]:
+            - listitem [ref=e114]:
+              - generic [ref=e115]: ✓
+              - generic [ref=e116]: 健康診断でC判定の社員が増えてきたが、改善策が打てていない
+            - listitem [ref=e117]:
+              - generic [ref=e118]: ✓
+              - generic [ref=e119]: PC作業による肩こり・腰痛で生産性が落ちている部署がある
+            - listitem [ref=e120]:
+              - generic [ref=e121]: ✓
+              - generic [ref=e122]: メンタル・ストレス対策を運動や食事からも進めたい
+            - listitem [ref=e123]:
+              - generic [ref=e124]: ✓
+              - generic [ref=e125]: 管理職と女性社員の健康課題に対するギャップを埋めたい
+            - listitem [ref=e126]:
+              - generic [ref=e127]: ✓
+              - generic [ref=e128]: 拠点が分散していて、オンラインでも実施できる研修を探している
+    - generic [ref=e130]:
+      - generic [ref=e131]:
+        - generic [ref=e132]: 3 CATEGORIES
+        - heading "3つの研修区分から 貴社の課題に合わせて選択" [level=2] [ref=e133]:
+          - text: 3つの研修区分から
+          - text: 貴社の課題に合わせて選択
+        - paragraph [ref=e134]: 運動・食事・健康意識という3つの切り口で、企業の健康課題に対応します。 各区分には複数の講座が用意されており、組合せて受講することも可能です。
+      - generic [ref=e135]:
+        - generic [ref=e136]:
+          - generic [ref=e137]: CATEGORY 01
+          - generic [ref=e138]: ア
+          - generic [ref=e139]: Exercise
+          - heading "運動習慣の定着" [level=3] [ref=e140]
+          - paragraph [ref=e141]: 運動不足・肩こり腰痛・運動時間が確保できないといった課題に。
+          - generic [ref=e142]: 解決できる課題
+          - list [ref=e143]:
+            - listitem [ref=e144]: 運動不足による体重・血圧の悪化
+            - listitem [ref=e145]: 肩こり・腰痛による集中力低下
+            - listitem [ref=e146]: 運動時間が確保できない
+          - generic [ref=e148]: 期待される効果
+          - list [ref=e149]:
+            - listitem [ref=e150]: 身体活動量の増加
+            - listitem [ref=e151]: 肩こり・腰痛の軽減
+            - listitem [ref=e152]: 継続できる運動習慣の形成
+        - generic [ref=e153]:
+          - generic [ref=e154]: CATEGORY 02
+          - generic [ref=e155]: イ
+          - generic [ref=e156]: Nutrition
+          - heading "食生活の改善" [level=3] [ref=e157]
+          - paragraph [ref=e158]: 血糖値・血圧・脂質・外食中心の改善方法不明といった課題に。
+          - generic [ref=e159]: 解決できる課題
+          - list [ref=e160]:
+            - listitem [ref=e161]: 食生活の乱れによる血糖値・血圧悪化
+            - listitem [ref=e162]: 食後の眠気・集中力低下
+            - listitem [ref=e163]: 健診C判定・外食中心で改善方法が不明
+          - generic [ref=e165]: 期待される効果
+          - list [ref=e166]:
+            - listitem [ref=e167]: 血糖値・血圧・脂質の改善
+            - listitem [ref=e168]: 食後の眠気軽減
+            - listitem [ref=e169]: 継続できる食習慣の形成
+        - generic [ref=e170]:
+          - generic [ref=e171]: CATEGORY 03
+          - generic [ref=e172]: ウ
+          - generic [ref=e173]: Awareness
+          - heading "健康意識向上・行動変容促進" [level=3] [ref=e174]
+          - paragraph [ref=e175]: 健康状態の見える化・ストレス・女性特有の不調といった課題に。
+          - generic [ref=e176]: 解決できる課題
+          - list [ref=e177]:
+            - listitem [ref=e178]: 健康状態が把握できない
+            - listitem [ref=e179]: 健診で指摘されたが行動できない
+            - listitem [ref=e180]: ストレス・女性特有の不調
+          - generic [ref=e182]: 期待される効果
+          - list [ref=e183]:
+            - listitem [ref=e184]: 健康状態の可視化
+            - listitem [ref=e185]: 健康意識の向上・行動変容の促進
+            - listitem [ref=e186]: ストレス軽減
+    - generic [ref=e188]:
+      - generic [ref=e189]:
+        - generic [ref=e190]: PROGRAM FEATURES
+        - heading "本プログラムの3つの特長" [level=2] [ref=e191]
+      - generic [ref=e192]:
+        - generic [ref=e193]:
+          - generic [ref=e194]: ①
+          - heading "申込み動機の多様化" [level=3] [ref=e195]
+          - paragraph [ref=e196]: 健康訴求だけでなく「見た目」「健診」「ストレス」など幅広い動機で社員を動かす設計
+        - generic [ref=e197]:
+          - generic [ref=e198]: ②
+          - heading "数値化・見える化" [level=3] [ref=e199]
+          - paragraph [ref=e200]: Before/After測定、2週間実行プラン、セルフチェックで効果を数値化
+        - generic [ref=e201]:
+          - generic [ref=e202]: ③
+          - heading "柔軟な実施形態" [level=3] [ref=e203]
+          - paragraph [ref=e204]: 貴社の希望に応じて、貴社への出張指導またはオンラインで実施
+    - generic [ref=e206]:
+      - generic [ref=e207]:
+        - generic [ref=e208]: 10 PROGRAMS
+        - heading "全10講座一覧" [level=2] [ref=e209]
+        - paragraph [ref=e210]: 講座ごとに「対象」「構成」「成果物」を明記しています。 実施形式（時間・形式）は講座ごとに異なります。複数講座の組合せも可能です。
+      - generic [ref=e211]:
+        - generic [ref=e212]: CATEGORY
+        - button "すべて (10)" [ref=e213] [cursor=pointer]:
+          - text: すべて
+          - generic [ref=e214]: (10)
+        - button "ア．運動習慣の定着 (3)" [ref=e215] [cursor=pointer]:
+          - text: ア．運動習慣の定着
+          - generic [ref=e216]: (3)
+        - button "イ．食生活の改善 (2)" [ref=e217] [cursor=pointer]:
+          - text: イ．食生活の改善
+          - generic [ref=e218]: (2)
+        - button "ウ．健康意識向上・行動変容促進 (5)" [ref=e219] [cursor=pointer]:
+          - text: ウ．健康意識向上・行動変容促進
+          - generic [ref=e220]: (5)
+      - table [ref=e222]:
+        - rowgroup [ref=e223]:
+          - row "No 区分 講座タイトル 時間・形式 対象・構成・成果物" [ref=e224]:
+            - columnheader "No" [ref=e225]
+            - columnheader "区分" [ref=e226]
+            - columnheader "講座タイトル" [ref=e227]
+            - columnheader "時間・形式" [ref=e228]
+            - columnheader "対象・構成・成果物" [ref=e229]
+        - rowgroup [ref=e230]:
+          - row "01 ア 運動習慣の定着 デスクワーク疲労を90分でリセット の画像を拡大表示 デスクワーク疲労を90分でリセット 肩・首・腰セルフケア 7選 90分 対面・オンライン 定員50名 対象 PC作業等で慢性的な肩こり・腰痛を抱える従業員 / プレゼンティーイズムで生産性が落ちている部署 構成 15分 不調のメカニズム解説 60分 椅子に座ったまま全員で実施できるセルフケア7種の実践 15分 職場導入計画シート作成 成果物 7種のセルフケアガイド / 2週間実行プラン / 効果セルフチェック" [ref=e231]:
+            - cell "01" [ref=e232]:
+              - generic [ref=e233]: "01"
+            - cell "ア 運動習慣の定着" [ref=e234]:
+              - generic [ref=e235]:
+                - generic [ref=e236]: ア
+                - generic [ref=e237]: 運動習慣の定着
+            - cell "デスクワーク疲労を90分でリセット の画像を拡大表示 デスクワーク疲労を90分でリセット 肩・首・腰セルフケア 7選" [ref=e238]:
+              - generic [ref=e239]:
+                - button "デスクワーク疲労を90分でリセット の画像を拡大表示" [ref=e240]:
+                  - img "デスクワーク疲労を90分でリセット" [ref=e241]
+                  - generic:
+                    - img
+                - generic [ref=e242]:
+                  - generic [ref=e243]: デスクワーク疲労を90分でリセット
+                  - generic [ref=e244]: 肩・首・腰セルフケア 7選
+            - cell "90分 対面・オンライン 定員50名" [ref=e245]:
+              - generic [ref=e246]: 90分
+              - generic [ref=e248]: 対面・オンライン
+              - generic [ref=e249]: 定員50名
+            - cell "対象 PC作業等で慢性的な肩こり・腰痛を抱える従業員 / プレゼンティーイズムで生産性が落ちている部署 構成 15分 不調のメカニズム解説 60分 椅子に座ったまま全員で実施できるセルフケア7種の実践 15分 職場導入計画シート作成 成果物 7種のセルフケアガイド / 2週間実行プラン / 効果セルフチェック" [ref=e250]:
+              - generic [ref=e251]:
+                - generic [ref=e252]: 対象
+                - generic [ref=e253]: PC作業等で慢性的な肩こり・腰痛を抱える従業員 / プレゼンティーイズムで生産性が落ちている部署
+              - generic [ref=e254]:
+                - generic [ref=e255]: 構成
+                - generic [ref=e256]:
+                  - generic [ref=e257]:
+                    - generic [ref=e258]: 15分
+                    - text: 不調のメカニズム解説
+                  - generic [ref=e259]:
+                    - generic [ref=e260]: 60分
+                    - text: 椅子に座ったまま全員で実施できるセルフケア7種の実践
+                  - generic [ref=e261]:
+                    - generic [ref=e262]: 15分
+                    - text: 職場導入計画シート作成
+              - generic [ref=e263]:
+                - generic [ref=e264]: 成果物
+                - generic [ref=e265]: 7種のセルフケアガイド / 2週間実行プラン / 効果セルフチェック
+          - row "02 ア 運動習慣の定着 見た目年齢 マイナス5歳！ の画像を拡大表示 見た目年齢 マイナス5歳！ 姿勢改善プログラム 90分 対面・オンライン 定員50名 対象 健康訴求では動かない若手・中堅層 / 姿勢悪化で印象が損なわれている営業職・接客職 構成 20分 猫背・巻き肩・反り腰の3タイプ自己診断 50分 タイプ別リセット運動の実践 20分 1日5分の継続メニュー設計 成果物 姿勢タイプ診断シート / タイプ別リセット運動ガイド / 2週間習慣化プラン" [ref=e266]:
+            - cell "02" [ref=e267]:
+              - generic [ref=e268]: "02"
+            - cell "ア 運動習慣の定着" [ref=e269]:
+              - generic [ref=e270]:
+                - generic [ref=e271]: ア
+                - generic [ref=e272]: 運動習慣の定着
+            - cell "見た目年齢 マイナス5歳！ の画像を拡大表示 見た目年齢 マイナス5歳！ 姿勢改善プログラム" [ref=e273]:
+              - generic [ref=e274]:
+                - button "見た目年齢 マイナス5歳！ の画像を拡大表示" [ref=e275]:
+                  - img "見た目年齢 マイナス5歳！" [ref=e276]
+                  - generic:
+                    - img
+                - generic [ref=e277]:
+                  - generic [ref=e278]: 見た目年齢 マイナス5歳！
+                  - generic [ref=e279]: 姿勢改善プログラム
+            - cell "90分 対面・オンライン 定員50名" [ref=e280]:
+              - generic [ref=e281]: 90分
+              - generic [ref=e283]: 対面・オンライン
+              - generic [ref=e284]: 定員50名
+            - cell "対象 健康訴求では動かない若手・中堅層 / 姿勢悪化で印象が損なわれている営業職・接客職 構成 20分 猫背・巻き肩・反り腰の3タイプ自己診断 50分 タイプ別リセット運動の実践 20分 1日5分の継続メニュー設計 成果物 姿勢タイプ診断シート / タイプ別リセット運動ガイド / 2週間習慣化プラン" [ref=e285]:
+              - generic [ref=e286]:
+                - generic [ref=e287]: 対象
+                - generic [ref=e288]: 健康訴求では動かない若手・中堅層 / 姿勢悪化で印象が損なわれている営業職・接客職
+              - generic [ref=e289]:
+                - generic [ref=e290]: 構成
+                - generic [ref=e291]:
+                  - generic [ref=e292]:
+                    - generic [ref=e293]: 20分
+                    - text: 猫背・巻き肩・反り腰の3タイプ自己診断
+                  - generic [ref=e294]:
+                    - generic [ref=e295]: 50分
+                    - text: タイプ別リセット運動の実践
+                  - generic [ref=e296]:
+                    - generic [ref=e297]: 20分
+                    - text: 1日5分の継続メニュー設計
+              - generic [ref=e298]:
+                - generic [ref=e299]: 成果物
+                - generic [ref=e300]: 姿勢タイプ診断シート / タイプ別リセット運動ガイド / 2週間習慣化プラン
+          - row "03 ア 運動習慣の定着 昼休み15分でルーティン定着 の画像を拡大表示 昼休み15分でルーティン定着 5日間ストレッチチャレンジ 15分 × 5日連続 オンライン限定 定員50名 対象 運動習慣がない / 長続きしない従業員 / 部署単位で習慣化を進めたい企業 構成 毎日15分 月〜金の昼休み、講師がオンライン生配信。1つの会議URLに毎日アクセス（出欠自由） 部位別 月：首肩／火：背中／水：腰股関節／木：動的全身／金：総おさらい 成果物 5日間ストレッチガイド（部位別解説付） / 日替わりルーティン表 / 2週間継続ワークシート" [ref=e301]:
+            - cell "03" [ref=e302]:
+              - generic [ref=e303]: "03"
+            - cell "ア 運動習慣の定着" [ref=e304]:
+              - generic [ref=e305]:
+                - generic [ref=e306]: ア
+                - generic [ref=e307]: 運動習慣の定着
+            - cell "昼休み15分でルーティン定着 の画像を拡大表示 昼休み15分でルーティン定着 5日間ストレッチチャレンジ" [ref=e308]:
+              - generic [ref=e309]:
+                - button "昼休み15分でルーティン定着 の画像を拡大表示" [ref=e310]:
+                  - img "昼休み15分でルーティン定着" [ref=e311]
+                  - generic:
+                    - img
+                - generic [ref=e312]:
+                  - generic [ref=e313]: 昼休み15分でルーティン定着
+                  - generic [ref=e314]: 5日間ストレッチチャレンジ
+            - cell "15分 × 5日連続 オンライン限定 定員50名" [ref=e315]:
+              - generic [ref=e316]: 15分 × 5日連続
+              - generic [ref=e318]: オンライン限定
+              - generic [ref=e319]: 定員50名
+            - cell "対象 運動習慣がない / 長続きしない従業員 / 部署単位で習慣化を進めたい企業 構成 毎日15分 月〜金の昼休み、講師がオンライン生配信。1つの会議URLに毎日アクセス（出欠自由） 部位別 月：首肩／火：背中／水：腰股関節／木：動的全身／金：総おさらい 成果物 5日間ストレッチガイド（部位別解説付） / 日替わりルーティン表 / 2週間継続ワークシート" [ref=e320]:
+              - generic [ref=e321]:
+                - generic [ref=e322]: 対象
+                - generic [ref=e323]: 運動習慣がない / 長続きしない従業員 / 部署単位で習慣化を進めたい企業
+              - generic [ref=e324]:
+                - generic [ref=e325]: 構成
+                - generic [ref=e326]:
+                  - generic [ref=e327]:
+                    - generic [ref=e328]: 毎日15分
+                    - text: 月〜金の昼休み、講師がオンライン生配信。1つの会議URLに毎日アクセス（出欠自由）
+                  - generic [ref=e329]:
+                    - generic [ref=e330]: 部位別
+                    - text: 月：首肩／火：背中／水：腰股関節／木：動的全身／金：総おさらい
+              - generic [ref=e331]:
+                - generic [ref=e332]: 成果物
+                - generic [ref=e333]: 5日間ストレッチガイド（部位別解説付） / 日替わりルーティン表 / 2週間継続ワークシート
+          - row "04 イ 食生活の改善 健診で引っかからないカラダの作り方 の画像を拡大表示 健診で引っかからないカラダの作り方 食事編 90分 対面・オンライン 定員50名 対象 健診でC判定を受けた / 血糖・中性脂肪・コレステロール・肝機能を改善したい従業員 構成 30分 健診項目別の改善ポイント解説 40分 コンビニ・外食での選び方演習 20分 1週間食事改善計画作成 成果物 健診項目別改善ガイド / コンビニ外食選び方シート / 1週間実行プラン" [ref=e334]:
+            - cell "04" [ref=e335]:
+              - generic [ref=e336]: "04"
+            - cell "イ 食生活の改善" [ref=e337]:
+              - generic [ref=e338]:
+                - generic [ref=e339]: イ
+                - generic [ref=e340]: 食生活の改善
+            - cell "健診で引っかからないカラダの作り方 の画像を拡大表示 健診で引っかからないカラダの作り方 食事編" [ref=e341]:
+              - generic [ref=e342]:
+                - button "健診で引っかからないカラダの作り方 の画像を拡大表示" [ref=e343]:
+                  - img "健診で引っかからないカラダの作り方" [ref=e344]
+                  - generic:
+                    - img
+                - generic [ref=e345]:
+                  - generic [ref=e346]: 健診で引っかからないカラダの作り方
+                  - generic [ref=e347]: 食事編
+            - cell "90分 対面・オンライン 定員50名" [ref=e348]:
+              - generic [ref=e349]: 90分
+              - generic [ref=e351]: 対面・オンライン
+              - generic [ref=e352]: 定員50名
+            - cell "対象 健診でC判定を受けた / 血糖・中性脂肪・コレステロール・肝機能を改善したい従業員 構成 30分 健診項目別の改善ポイント解説 40分 コンビニ・外食での選び方演習 20分 1週間食事改善計画作成 成果物 健診項目別改善ガイド / コンビニ外食選び方シート / 1週間実行プラン" [ref=e353]:
+              - generic [ref=e354]:
+                - generic [ref=e355]: 対象
+                - generic [ref=e356]: 健診でC判定を受けた / 血糖・中性脂肪・コレステロール・肝機能を改善したい従業員
+              - generic [ref=e357]:
+                - generic [ref=e358]: 構成
+                - generic [ref=e359]:
+                  - generic [ref=e360]:
+                    - generic [ref=e361]: 30分
+                    - text: 健診項目別の改善ポイント解説
+                  - generic [ref=e362]:
+                    - generic [ref=e363]: 40分
+                    - text: コンビニ・外食での選び方演習
+                  - generic [ref=e364]:
+                    - generic [ref=e365]: 20分
+                    - text: 1週間食事改善計画作成
+              - generic [ref=e366]:
+                - generic [ref=e367]: 成果物
+                - generic [ref=e368]: 健診項目別改善ガイド / コンビニ外食選び方シート / 1週間実行プラン
+          - row "05 イ 食生活の改善 もう失敗しないダイエットの成功法則 の画像を拡大表示 もう失敗しないダイエットの成功法則 3ヶ月行動計画付 90分 対面・オンライン 定員50名 対象 過去にダイエットで失敗・リバウンドした経験のある従業員 / 停滞期の乗り越え方が分からない 構成 20分 リバウンドの科学的メカニズム解説 40分 食事・運動・睡眠の優先順位 30分 3ヶ月行動計画作成 成果物 リバウンド予防チェックシート / 3ヶ月行動計画 / 毎週振り返りテンプレート" [ref=e369]:
+            - cell "05" [ref=e370]:
+              - generic [ref=e371]: "05"
+            - cell "イ 食生活の改善" [ref=e372]:
+              - generic [ref=e373]:
+                - generic [ref=e374]: イ
+                - generic [ref=e375]: 食生活の改善
+            - cell "もう失敗しないダイエットの成功法則 の画像を拡大表示 もう失敗しないダイエットの成功法則 3ヶ月行動計画付" [ref=e376]:
+              - generic [ref=e377]:
+                - button "もう失敗しないダイエットの成功法則 の画像を拡大表示" [ref=e378]:
+                  - img "もう失敗しないダイエットの成功法則" [ref=e379]
+                  - generic:
+                    - img
+                - generic [ref=e380]:
+                  - generic [ref=e381]: もう失敗しないダイエットの成功法則
+                  - generic [ref=e382]: 3ヶ月行動計画付
+            - cell "90分 対面・オンライン 定員50名" [ref=e383]:
+              - generic [ref=e384]: 90分
+              - generic [ref=e386]: 対面・オンライン
+              - generic [ref=e387]: 定員50名
+            - cell "対象 過去にダイエットで失敗・リバウンドした経験のある従業員 / 停滞期の乗り越え方が分からない 構成 20分 リバウンドの科学的メカニズム解説 40分 食事・運動・睡眠の優先順位 30分 3ヶ月行動計画作成 成果物 リバウンド予防チェックシート / 3ヶ月行動計画 / 毎週振り返りテンプレート" [ref=e388]:
+              - generic [ref=e389]:
+                - generic [ref=e390]: 対象
+                - generic [ref=e391]: 過去にダイエットで失敗・リバウンドした経験のある従業員 / 停滞期の乗り越え方が分からない
+              - generic [ref=e392]:
+                - generic [ref=e393]: 構成
+                - generic [ref=e394]:
+                  - generic [ref=e395]:
+                    - generic [ref=e396]: 20分
+                    - text: リバウンドの科学的メカニズム解説
+                  - generic [ref=e397]:
+                    - generic [ref=e398]: 40分
+                    - text: 食事・運動・睡眠の優先順位
+                  - generic [ref=e399]:
+                    - generic [ref=e400]: 30分
+                    - text: 3ヶ月行動計画作成
+              - generic [ref=e401]:
+                - generic [ref=e402]: 成果物
+                - generic [ref=e403]: リバウンド予防チェックシート / 3ヶ月行動計画 / 毎週振り返りテンプレート
+          - row "06 ウ 健康意識向上・行動変容促進 まずは知る、カラダ年齢 の画像を拡大表示 まずは知る、カラダ年齢 体力測定チェック ＆ 改善プラン お一人様30分 対面のみ 定員20名 対象 自分の体力レベルが数値で把握できない / 運動習慣を始めるきっかけが欲しい従業員 構成 測定 握力・柔軟性・敏捷性・全身持久力・脚筋力 比較 同年代平均・理想値との比較 提案 個別フィードバック／改善に向けた運動プラン提案 成果物 体力測定結果レポート（年代別比較付） / 個別運動プラン" [ref=e404]:
+            - cell "06" [ref=e405]:
+              - generic [ref=e406]: "06"
+            - cell "ウ 健康意識向上・行動変容促進" [ref=e407]:
+              - generic [ref=e408]:
+                - generic [ref=e409]: ウ
+                - generic [ref=e410]: 健康意識向上・行動変容促進
+            - cell "まずは知る、カラダ年齢 の画像を拡大表示 まずは知る、カラダ年齢 体力測定チェック ＆ 改善プラン" [ref=e411]:
+              - generic [ref=e412]:
+                - button "まずは知る、カラダ年齢 の画像を拡大表示" [ref=e413]:
+                  - img "まずは知る、カラダ年齢" [ref=e414]
+                  - generic:
+                    - img
+                - generic [ref=e415]:
+                  - generic [ref=e416]: まずは知る、カラダ年齢
+                  - generic [ref=e417]: 体力測定チェック ＆ 改善プラン
+            - cell "お一人様30分 対面のみ 定員20名" [ref=e418]:
+              - generic [ref=e419]: お一人様30分
+              - generic [ref=e421]: 対面のみ
+              - generic [ref=e422]: 定員20名
+            - cell "対象 自分の体力レベルが数値で把握できない / 運動習慣を始めるきっかけが欲しい従業員 構成 測定 握力・柔軟性・敏捷性・全身持久力・脚筋力 比較 同年代平均・理想値との比較 提案 個別フィードバック／改善に向けた運動プラン提案 成果物 体力測定結果レポート（年代別比較付） / 個別運動プラン" [ref=e423]:
+              - generic [ref=e424]:
+                - generic [ref=e425]: 対象
+                - generic [ref=e426]: 自分の体力レベルが数値で把握できない / 運動習慣を始めるきっかけが欲しい従業員
+              - generic [ref=e427]:
+                - generic [ref=e428]: 構成
+                - generic [ref=e429]:
+                  - generic [ref=e430]:
+                    - generic [ref=e431]: 測定
+                    - text: 握力・柔軟性・敏捷性・全身持久力・脚筋力
+                  - generic [ref=e432]:
+                    - generic [ref=e433]: 比較
+                    - text: 同年代平均・理想値との比較
+                  - generic [ref=e434]:
+                    - generic [ref=e435]: 提案
+                    - text: 個別フィードバック／改善に向けた運動プラン提案
+              - generic [ref=e436]:
+                - generic [ref=e437]: 成果物
+                - generic [ref=e438]: 体力測定結果レポート（年代別比較付） / 個別運動プラン
+          - row "07 ウ 健康意識向上・行動変容促進 見えない数値を見える化 の画像を拡大表示 見えない数値を見える化 体成分測定 ＆ 健康リスク診断 お一人様30分 対面のみ 定員20名 対象 体重は正常だが体脂肪率が高い（隠れ肥満）/ 内臓脂肪型肥満の疑い / 健康リスクを数値で把握したい従業員 構成 測定 体脂肪率・筋肉量・内臓脂肪レベル・部位別バランス 解説 測定結果と生活習慣病リスクの関連 提案 個別フィードバックと改善提案 成果物 体成分測定結果レポート（リスク判定付） / 個別改善プラン" [ref=e439]:
+            - cell "07" [ref=e440]:
+              - generic [ref=e441]: "07"
+            - cell "ウ 健康意識向上・行動変容促進" [ref=e442]:
+              - generic [ref=e443]:
+                - generic [ref=e444]: ウ
+                - generic [ref=e445]: 健康意識向上・行動変容促進
+            - cell "見えない数値を見える化 の画像を拡大表示 見えない数値を見える化 体成分測定 ＆ 健康リスク診断" [ref=e446]:
+              - generic [ref=e447]:
+                - button "見えない数値を見える化 の画像を拡大表示" [ref=e448]:
+                  - img "見えない数値を見える化" [ref=e449]
+                  - generic:
+                    - img
+                - generic [ref=e450]:
+                  - generic [ref=e451]: 見えない数値を見える化
+                  - generic [ref=e452]: 体成分測定 ＆ 健康リスク診断
+            - cell "お一人様30分 対面のみ 定員20名" [ref=e453]:
+              - generic [ref=e454]: お一人様30分
+              - generic [ref=e456]: 対面のみ
+              - generic [ref=e457]: 定員20名
+            - cell "対象 体重は正常だが体脂肪率が高い（隠れ肥満）/ 内臓脂肪型肥満の疑い / 健康リスクを数値で把握したい従業員 構成 測定 体脂肪率・筋肉量・内臓脂肪レベル・部位別バランス 解説 測定結果と生活習慣病リスクの関連 提案 個別フィードバックと改善提案 成果物 体成分測定結果レポート（リスク判定付） / 個別改善プラン" [ref=e458]:
+              - generic [ref=e459]:
+                - generic [ref=e460]: 対象
+                - generic [ref=e461]: 体重は正常だが体脂肪率が高い（隠れ肥満）/ 内臓脂肪型肥満の疑い / 健康リスクを数値で把握したい従業員
+              - generic [ref=e462]:
+                - generic [ref=e463]: 構成
+                - generic [ref=e464]:
+                  - generic [ref=e465]:
+                    - generic [ref=e466]: 測定
+                    - text: 体脂肪率・筋肉量・内臓脂肪レベル・部位別バランス
+                  - generic [ref=e467]:
+                    - generic [ref=e468]: 解説
+                    - text: 測定結果と生活習慣病リスクの関連
+                  - generic [ref=e469]:
+                    - generic [ref=e470]: 提案
+                    - text: 個別フィードバックと改善提案
+              - generic [ref=e471]:
+                - generic [ref=e472]: 成果物
+                - generic [ref=e473]: 体成分測定結果レポート（リスク判定付） / 個別改善プラン
+          - row "08 ウ 健康意識向上・行動変容促進 健診で血圧を指摘された方へ の画像を拡大表示 健診で血圧を指摘された方へ 生活習慣改善 3ステップ 90分 対面・オンライン 定員50名 対象 健診で血圧を指摘されたが薬は飲みたくない / 家族に高血圧の既往がある従業員 構成 20分 血圧が上がるメカニズム 50分 食事（減塩・カリウム）・運動・睡眠の3軸改善法 20分 家庭血圧の測定・記録法 成果物 3軸改善ガイド / 家庭血圧記録シート / 2週間実行プラン" [ref=e474]:
+            - cell "08" [ref=e475]:
+              - generic [ref=e476]: "08"
+            - cell "ウ 健康意識向上・行動変容促進" [ref=e477]:
+              - generic [ref=e478]:
+                - generic [ref=e479]: ウ
+                - generic [ref=e480]: 健康意識向上・行動変容促進
+            - cell "健診で血圧を指摘された方へ の画像を拡大表示 健診で血圧を指摘された方へ 生活習慣改善 3ステップ" [ref=e481]:
+              - generic [ref=e482]:
+                - button "健診で血圧を指摘された方へ の画像を拡大表示" [ref=e483]:
+                  - img "健診で血圧を指摘された方へ" [ref=e484]
+                  - generic:
+                    - img
+                - generic [ref=e485]:
+                  - generic [ref=e486]: 健診で血圧を指摘された方へ
+                  - generic [ref=e487]: 生活習慣改善 3ステップ
+            - cell "90分 対面・オンライン 定員50名" [ref=e488]:
+              - generic [ref=e489]: 90分
+              - generic [ref=e491]: 対面・オンライン
+              - generic [ref=e492]: 定員50名
+            - cell "対象 健診で血圧を指摘されたが薬は飲みたくない / 家族に高血圧の既往がある従業員 構成 20分 血圧が上がるメカニズム 50分 食事（減塩・カリウム）・運動・睡眠の3軸改善法 20分 家庭血圧の測定・記録法 成果物 3軸改善ガイド / 家庭血圧記録シート / 2週間実行プラン" [ref=e493]:
+              - generic [ref=e494]:
+                - generic [ref=e495]: 対象
+                - generic [ref=e496]: 健診で血圧を指摘されたが薬は飲みたくない / 家族に高血圧の既往がある従業員
+              - generic [ref=e497]:
+                - generic [ref=e498]: 構成
+                - generic [ref=e499]:
+                  - generic [ref=e500]:
+                    - generic [ref=e501]: 20分
+                    - text: 血圧が上がるメカニズム
+                  - generic [ref=e502]:
+                    - generic [ref=e503]: 50分
+                    - text: 食事（減塩・カリウム）・運動・睡眠の3軸改善法
+                  - generic [ref=e504]:
+                    - generic [ref=e505]: 20分
+                    - text: 家庭血圧の測定・記録法
+              - generic [ref=e506]:
+                - generic [ref=e507]: 成果物
+                - generic [ref=e508]: 3軸改善ガイド / 家庭血圧記録シート / 2週間実行プラン
+          - row "09 ウ 健康意識向上・行動変容促進 対人ストレスに効く の画像を拡大表示 対人ストレスに効く カラダから整えるメンタルケア 90分 対面・オンライン 定員50名 対象 顧客対応・クレーム処理で疲弊 / 管理職のマネジメントストレス 構成 20分 ストレス反応と自律神経の関係 50分 呼吸法・姿勢リセット・短時間運動の実践 設計 業務中に使える導入タイミング 成果物 3分リセット法5パターン / 業務中導入タイミング設計シート" [ref=e509]:
+            - cell "09" [ref=e510]:
+              - generic [ref=e511]: "09"
+            - cell "ウ 健康意識向上・行動変容促進" [ref=e512]:
+              - generic [ref=e513]:
+                - generic [ref=e514]: ウ
+                - generic [ref=e515]: 健康意識向上・行動変容促進
+            - cell "対人ストレスに効く の画像を拡大表示 対人ストレスに効く カラダから整えるメンタルケア" [ref=e516]:
+              - generic [ref=e517]:
+                - button "対人ストレスに効く の画像を拡大表示" [ref=e518]:
+                  - img "対人ストレスに効く" [ref=e519]
+                  - generic:
+                    - img
+                - generic [ref=e520]:
+                  - generic [ref=e521]: 対人ストレスに効く
+                  - generic [ref=e522]: カラダから整えるメンタルケア
+            - cell "90分 対面・オンライン 定員50名" [ref=e523]:
+              - generic [ref=e524]: 90分
+              - generic [ref=e526]: 対面・オンライン
+              - generic [ref=e527]: 定員50名
+            - cell "対象 顧客対応・クレーム処理で疲弊 / 管理職のマネジメントストレス 構成 20分 ストレス反応と自律神経の関係 50分 呼吸法・姿勢リセット・短時間運動の実践 設計 業務中に使える導入タイミング 成果物 3分リセット法5パターン / 業務中導入タイミング設計シート" [ref=e528]:
+              - generic [ref=e529]:
+                - generic [ref=e530]: 対象
+                - generic [ref=e531]: 顧客対応・クレーム処理で疲弊 / 管理職のマネジメントストレス
+              - generic [ref=e532]:
+                - generic [ref=e533]: 構成
+                - generic [ref=e534]:
+                  - generic [ref=e535]:
+                    - generic [ref=e536]: 20分
+                    - text: ストレス反応と自律神経の関係
+                  - generic [ref=e537]:
+                    - generic [ref=e538]: 50分
+                    - text: 呼吸法・姿勢リセット・短時間運動の実践
+                  - generic [ref=e539]:
+                    - generic [ref=e540]: 設計
+                    - text: 業務中に使える導入タイミング
+              - generic [ref=e541]:
+                - generic [ref=e542]: 成果物
+                - generic [ref=e543]: 3分リセット法5パターン / 業務中導入タイミング設計シート
+          - row "10 ウ 健康意識向上・行動変容促進 PMS・更年期に対応する の画像を拡大表示 PMS・更年期に対応する 女性社員のためのセルフケア 90分 対面・オンライン 定員50名 対象 PMS・更年期症状によるパフォーマンス低下 / 男性管理職との情報ギャップ 構成 25分 女性ホルモン変動と不調の関係 45分 症状別セルフケア（運動・食事・睡眠）実践 20分 職場での工夫・相談先の整理 成果物 症状別セルフケアガイド / 月経周期連動スケジュール" [ref=e544]:
+            - cell "10" [ref=e545]:
+              - generic [ref=e546]: "10"
+            - cell "ウ 健康意識向上・行動変容促進" [ref=e547]:
+              - generic [ref=e548]:
+                - generic [ref=e549]: ウ
+                - generic [ref=e550]: 健康意識向上・行動変容促進
+            - cell "PMS・更年期に対応する の画像を拡大表示 PMS・更年期に対応する 女性社員のためのセルフケア" [ref=e551]:
+              - generic [ref=e552]:
+                - button "PMS・更年期に対応する の画像を拡大表示" [ref=e553]:
+                  - img "PMS・更年期に対応する" [ref=e554]
+                  - generic:
+                    - img
+                - generic [ref=e555]:
+                  - generic [ref=e556]: PMS・更年期に対応する
+                  - generic [ref=e557]: 女性社員のためのセルフケア
+            - cell "90分 対面・オンライン 定員50名" [ref=e558]:
+              - generic [ref=e559]: 90分
+              - generic [ref=e561]: 対面・オンライン
+              - generic [ref=e562]: 定員50名
+            - cell "対象 PMS・更年期症状によるパフォーマンス低下 / 男性管理職との情報ギャップ 構成 25分 女性ホルモン変動と不調の関係 45分 症状別セルフケア（運動・食事・睡眠）実践 20分 職場での工夫・相談先の整理 成果物 症状別セルフケアガイド / 月経周期連動スケジュール" [ref=e563]:
+              - generic [ref=e564]:
+                - generic [ref=e565]: 対象
+                - generic [ref=e566]: PMS・更年期症状によるパフォーマンス低下 / 男性管理職との情報ギャップ
+              - generic [ref=e567]:
+                - generic [ref=e568]: 構成
+                - generic [ref=e569]:
+                  - generic [ref=e570]:
+                    - generic [ref=e571]: 25分
+                    - text: 女性ホルモン変動と不調の関係
+                  - generic [ref=e572]:
+                    - generic [ref=e573]: 45分
+                    - text: 症状別セルフケア（運動・食事・睡眠）実践
+                  - generic [ref=e574]:
+                    - generic [ref=e575]: 20分
+                    - text: 職場での工夫・相談先の整理
+              - generic [ref=e576]:
+                - generic [ref=e577]: 成果物
+                - generic [ref=e578]: 症状別セルフケアガイド / 月経周期連動スケジュール
+      - link "気になる講座について相談する" [ref=e580] [cursor=pointer]:
+        - /url: "#contact"
+        - text: 気になる講座について相談する
+    - generic [ref=e583]:
+      - generic [ref=e584]:
+        - generic [ref=e585]: HOW IT WORKS
+        - heading "お申込みから実施までの流れ" [level=2] [ref=e586]
+        - paragraph [ref=e587]: お問合せから最短2〜3週間で実施可能です。事前ヒアリングで貴社の課題に合わせて内容を調整します。
+      - generic [ref=e588]:
+        - generic [ref=e589]:
+          - generic [ref=e590]: "01"
+          - generic [ref=e591]: STEP 01
+          - heading "講座選択・お問合せ" [level=3] [ref=e592]
+          - paragraph [ref=e593]: 一覧から興味のある講座をお選びいただき、下記連絡先までご連絡ください。複数講座の組合せも可能です。
+        - generic [ref=e594]:
+          - generic [ref=e595]: "02"
+          - generic [ref=e596]: STEP 02
+          - heading "ヒアリング" [level=3] [ref=e597]
+          - paragraph [ref=e598]: 貴社の健康課題・社員層・実施目的を10分程度ヒアリングします。内容のカスタマイズも可能です。
+        - generic [ref=e599]:
+          - generic [ref=e600]: "03"
+          - generic [ref=e601]: STEP 03
+          - heading "日程調整" [level=3] [ref=e602]
+          - paragraph [ref=e603]: 実施日程・会場・定員を確定し、実施内容のご連絡をいたします。
+        - generic [ref=e604]:
+          - generic [ref=e605]: "04"
+          - generic [ref=e606]: STEP 04
+          - heading "実施・成果物お渡し" [level=3] [ref=e607]
+          - paragraph [ref=e608]: 選択された講座の実施形式に従い、研修を実施。受講者には本プログラム専用の持ち帰り資料をお渡しします。
+        - generic [ref=e609]:
+          - generic [ref=e610]: "05"
+          - generic [ref=e611]: STEP 05
+          - heading "事後フォロー" [level=3] [ref=e612]
+          - paragraph [ref=e613]: 実施後のアンケート結果・参加者の行動変容レポートをお渡しします。
+    - generic [ref=e615]:
+      - generic [ref=e616]:
+        - generic [ref=e617]: FAQ
+        - heading "よくあるご質問" [level=2] [ref=e618]
+      - generic [ref=e619]:
+        - generic [ref=e620]:
+          - button "Q 費用はかかりますか？" [ref=e621] [cursor=pointer]:
+            - generic [ref=e622]: Q
+            - generic [ref=e623]: 費用はかかりますか？
+          - generic [ref=e625]:
+            - generic [ref=e626]: A
+            - generic [ref=e627]: 本研修は兵庫県委託事業のため、対象企業は無料でご受講いただけます。
+        - button "Q 対象企業の条件はありますか？" [ref=e629] [cursor=pointer]:
+          - generic [ref=e630]: Q
+          - generic [ref=e631]: 対象企業の条件はありますか？
+        - button "Q 対面とオンライン、どちらも選べますか？" [ref=e634] [cursor=pointer]:
+          - generic [ref=e635]: Q
+          - generic [ref=e636]: 対面とオンライン、どちらも選べますか？
+        - button "Q 1社で複数の講座を申込めますか？" [ref=e639] [cursor=pointer]:
+          - generic [ref=e640]: Q
+          - generic [ref=e641]: 1社で複数の講座を申込めますか？
+        - button "Q 受講人数の上限・下限は？" [ref=e644] [cursor=pointer]:
+          - generic [ref=e645]: Q
+          - generic [ref=e646]: 受講人数の上限・下限は？
+        - button "Q 研修の内容はカスタマイズ可能ですか？" [ref=e649] [cursor=pointer]:
+          - generic [ref=e650]: Q
+          - generic [ref=e651]: 研修の内容はカスタマイズ可能ですか？
+        - button "Q 申込から実施までどのくらいかかりますか？" [ref=e654] [cursor=pointer]:
+          - generic [ref=e655]: Q
+          - generic [ref=e656]: 申込から実施までどのくらいかかりますか？
+        - button "Q 受講後のフォローはありますか？" [ref=e659] [cursor=pointer]:
+          - generic [ref=e660]: Q
+          - generic [ref=e661]: 受講後のフォローはありますか？
+        - button "Q 申込締切はありますか？" [ref=e664] [cursor=pointer]:
+          - generic [ref=e665]: Q
+          - generic [ref=e666]: 申込締切はありますか？
+    - generic [ref=e669]:
+      - generic [ref=e670]:
+        - generic [ref=e671]: CONTACT & APPLY
+        - heading "お申込み・お問合せ" [level=2] [ref=e672]
+        - paragraph [ref=e673]: まずはお気軽にお問合せください。担当者が貴社の健康課題を伺い、最適な講座をご提案します。
+      - generic [ref=e674]:
+        - generic [ref=e675]:
+          - generic [ref=e676]: STEP 1 — APPLY
+          - heading "講座のお申込みはこちらから" [level=3] [ref=e677]
+          - paragraph [ref=e678]: 講座名・希望日程・実施形式（対面／オンライン）・想定人数をお知らせください。 複数講座の組合せもご相談いただけます。
+          - generic [ref=e679]:
+            - generic [ref=e680]:
+              - link "申込フォームへ進む" [ref=e681] [cursor=pointer]:
+                - /url: https://form.run/@hyogo-kensyu
+                - text: 申込フォームへ進む
+              - generic [ref=e683]: ※ お電話・メールでのお問合せも受付しております
+            - generic [ref=e684]:
+              - generic [ref=e685]: スマホで読み取る
+              - img "申込フォームQRコード" [ref=e686]
+              - generic [ref=e687]: 申込フォーム
+        - generic [ref=e688]:
+          - generic [ref=e689]: お問合せ先
+          - heading "グンゼスポーツ株式会社" [level=4] [ref=e690]
+          - generic [ref=e691]: GUNZE SPORTS Co., Ltd. ／ 営業統括部
+          - generic [ref=e692]:
+            - generic [ref=e693]:
+              - term [ref=e694]: 担当
+              - definition [ref=e695]: 中島・内藤
+            - generic [ref=e696]:
+              - term [ref=e697]: TEL
+              - definition [ref=e698]: 06-6423-4721
+            - generic [ref=e699]:
+              - term [ref=e700]: MAIL
+              - definition [ref=e701]:
+                - link "info@gunzesports.com" [ref=e702] [cursor=pointer]:
+                  - /url: mailto:info@gunzesports.com
+            - generic [ref=e703]:
+              - term [ref=e704]: 受付時間
+              - definition [ref=e705]: 平日 10:00 〜 18:00
+  - contentinfo [ref=e706]:
+    - generic [ref=e707]:
+      - generic [ref=e708]:
+        - heading "兵庫県 健康づくり研修会支援事業" [level=4] [ref=e709]
+        - paragraph [ref=e710]: 兵庫県委託事業として、グンゼスポーツ株式会社が運営する企業向け健康研修プログラムです。 兵庫県内の働く人の健康づくりを支援します。
+      - generic [ref=e711]:
+        - heading "サイトマップ" [level=4] [ref=e712]
+        - list [ref=e713]:
+          - listitem [ref=e714]:
+            - link "事業概要" [ref=e715] [cursor=pointer]:
+              - /url: "#about"
+          - listitem [ref=e716]:
+            - link "対象企業" [ref=e717] [cursor=pointer]:
+              - /url: "#target"
+          - listitem [ref=e718]:
+            - link "講座一覧" [ref=e719] [cursor=pointer]:
+              - /url: "#courses"
+          - listitem [ref=e720]:
+            - link "お申込みの流れ" [ref=e721] [cursor=pointer]:
+              - /url: "#flow"
+          - listitem [ref=e722]:
+            - link "よくあるご質問" [ref=e723] [cursor=pointer]:
+              - /url: "#faq"
+      - generic [ref=e724]:
+        - heading "運営" [level=4] [ref=e725]
+        - list [ref=e726]:
+          - listitem [ref=e727]: 委託元：兵庫県
+          - listitem [ref=e728]: 運営：グンゼスポーツ株式会社
+          - listitem [ref=e729]: TEL：06-6423-4721
+          - listitem [ref=e730]: MAIL：info@gunzesports.com
+    - generic [ref=e731]:
+      - generic [ref=e732]: © Hyogo Prefecture × GUNZE SPORTS Co., Ltd.
+      - generic [ref=e733]: 令和8年度 兵庫県 健康づくり研修会支援事業
+  - link "無料で申込む" [ref=e734] [cursor=pointer]:
+    - /url: https://form.run/@hyogo-kensyu
+    - img [ref=e735]
+    - text: 無料で申込む

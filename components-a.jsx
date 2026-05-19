@@ -45,7 +45,7 @@ function Hero({ heroVariant }) {
 function HeroDefault() {
   return (
     <section className="hero hero-fullbleed" id="top">
-      <img src="assets/hero.png?v=9" alt="社員の健康課題に、10の処方箋を。兵庫県内企業の健康経営担当者向け、全10講座・無料の研修プログラム" className="hero-bg" />
+      <img src="assets/hero.png?v=9" alt="社員の健康課題に、10の処方箋を。兵庫県内企業の人事・総務ご担当者向け、全10講座の研修プログラム" className="hero-bg" />
       <div className="hero-fb-inner">
         <div className="hero-limited-ribbon" aria-label="先着100社限定">
           <span className="hero-limited-ribbon-eyebrow">FIRST-COME</span>
@@ -104,7 +104,7 @@ function HeroMinimal() {
           <span className="hero-badge green"><span className="dot" />受講料 無料</span>
         </div>
         <h1 style={{ maxWidth: 880, margin: "0 auto 32px" }}>
-          <span className="small">企業の健康経営を、研修から。</span>
+          <span className="small">企業の健康づくりを、研修から。</span>
           働く人の健康を、<br />
           <span className="stripe">企業の力</span>に変える。
         </h1>
@@ -136,7 +136,7 @@ function HeroSplit() {
           </h1>
           <p className="hero-lead">
             運動・食事・健康意識の3領域、全10講座。<br />
-            兵庫県内企業の健康経営をグンゼスポーツが伴走支援します。
+            兵庫県内企業の健康づくりをグンゼスポーツが伴走支援します。
           </p>
           <div className="hero-cta-row">
             <a href={APPLY_URL} target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-lg">無料で申込む<span className="btn-arrow" /></a>
@@ -207,17 +207,15 @@ function About() {
         <div className="about-grid">
           <div>
             <div className="eyebrow">ABOUT</div>
-            <h2 className="h-section">健康経営に取り組む<br />企業のための研修支援</h2>
+            <h2 className="h-section">働き盛り世代の<br />健康づくりを支援するための研修事業</h2>
             <p style={{ fontSize: 15, lineHeight: 1.95, color: "var(--c-text)", marginTop: 24, textWrap: "pretty" }}>
-              兵庫県では、県内企業の健康経営の取組を後押しするため、
-              健康づくりに関する研修会を無料で提供しています。
+              兵庫県では、働き盛り世代の健康づくりを支援するため、
+              健康づくりに関する研修会に専門家（講師）を派遣しています。
               本事業はグンゼスポーツ株式会社が運営し、運動・食事・健康意識の
               3領域・全10講座から、貴社の課題に合わせてお選びいただけます。
             </p>
             <ul className="about-points">
-              <li><b>01</b><span>「健康課題に基づいた具体的な健康保持・増進計画の策定」の取組実績として活用可能</span></li>
-              <li><b>02</b><span>「従業員の健康保持・増進に向けた具体的対策」の実績として申請に活用可能</span></li>
-              <li><b>03</b><span>全講座共通で受講後に「明日から実行する行動を1つ決定する」行動変容フレーム</span></li>
+              <li><span>全講座共通で受講後に「明日から実行する行動を1つ決定する」行動変容フレーム</span></li>
             </ul>
           </div>
           <div className="about-visual">
@@ -260,7 +258,7 @@ function Target() {
               <span className="target-tag">対象企業</span>
               <h3 className="target-h">兵庫県内に事業所をもつ<br />「健康づくりチャレンジ企業」</h3>
               <p style={{ fontSize: 13, color: "var(--c-muted)", lineHeight: 1.85, marginTop: 16 }}>
-                総務・人事・健康経営担当者の皆さまからのお申込みを受付しています。登録予定の企業様もまずはお問合せください。
+                総務・人事ご担当者の皆さまからのお申込みを受付しています。登録予定の企業様もまずはお問合せください。
               </p>
             </div>
             <div>
@@ -270,7 +268,6 @@ function Target() {
               <ul className="target-list">
                 {[
                   "健康診断でC判定の社員が増えてきたが、改善策が打てていない",
-                  "健康経営優良法人の認定取得・更新に向けた実績を作りたい",
                   "PC作業による肩こり・腰痛で生産性が落ちている部署がある",
                   "メンタル・ストレス対策を運動や食事からも進めたい",
                   "管理職と女性社員の健康課題に対するギャップを埋めたい",
