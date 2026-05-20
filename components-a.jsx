@@ -45,7 +45,19 @@ function Hero({ heroVariant }) {
 function HeroDefault() {
   return (
     <section className="hero hero-fullbleed" id="top">
-      <img src="assets/hero.png?v=9" alt="社員の健康課題に、10の処方箋を。兵庫県内企業の人事・総務ご担当者向け、全10講座の研修プログラム" className="hero-bg" />
+      <div className="hero-media">
+        <img src="assets/hero.png?v=14" alt="兵庫県内企業向け 健康づくり研修プログラム" className="hero-bg" />
+        <div className="hero-overlay-text">
+          <p className="hero-eyebrow">企業の健康課題を、研修から。</p>
+          <h1 className="hero-h1">社員の健康課題に、<br />10の処方箋を。</h1>
+          <p className="hero-lead">
+            従業員の健康づくりに取り組みたい皆さまへ。<br />
+            運動・食事・健康意識の3領域から選べる<br />
+            全10講座を、対面またはオンラインで<br />
+            無料提供します。
+          </p>
+        </div>
+      </div>
       <div className="hero-fb-inner">
         <div className="hero-limited-ribbon" aria-label="先着100社限定">
           <span className="hero-limited-ribbon-eyebrow">FIRST-COME</span>
@@ -215,7 +227,7 @@ function About() {
               3領域・全10講座から、貴社の課題に合わせてお選びいただけます。
             </p>
             <ul className="about-points">
-              <li><span>全講座共通で受講後に「明日から実行する行動を1つ決定する」行動変容フレーム</span></li>
+              <li><span>全講座共通で、受講後に「明日から実行する行動」を1つ決める行動変容フレームを採用しています。</span></li>
             </ul>
           </div>
           <div className="about-visual">
